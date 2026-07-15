@@ -136,7 +136,7 @@ streamlit run enhanced_healthcare_app.py
 
 ## 👨‍💻 Author
 
-**Harshit**
+**Anshika**
 
 ---
 
