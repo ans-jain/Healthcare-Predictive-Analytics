@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 from datetime import datetime, timedelta
 
 # Import our enhanced data loader and explainability (only these are used)
-from real_data_loader import HealthcareDataLoader
+from data_loader import HealthcareDataLoader
 from healthcare_explainability import HealthcareExplainabilityEngine
 
 # Set page config
